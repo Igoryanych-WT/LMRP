@@ -1,0 +1,123 @@
+{
+	"providers": [
+		{
+			"type": "ttf",
+			"file": "minecraft:negative_spaces.ttf",
+			"shift": [0.0, 0.0],
+			"size": 10.0,
+			"oversample": 1.0
+		},
+				{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/send2.png",
+			"ascent": 10,
+			"height": 12,
+			"chars": ["\uE101"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/lcoin.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": ["\uE102"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/lmlogo1.png",
+			"ascent": 20,
+			"height": 22,
+			"chars": ["\uE005"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/lmtab2.png",
+			"ascent": 10,
+			"height": 50,
+			"chars": ["\uE009"]
+		},
+				{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/gender1.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE110"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/gender2.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE111"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/local.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE112"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/global.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE113"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/love.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": ["\uE114"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/mail.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE115"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/mine.png",
+			"ascent": 7,
+			"height": 16,
+			"chars": ["\uE116"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/op.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE117"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/donatechest.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE118"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/key.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE119"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/clad.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE120"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/info.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE121"]
+		}
+	]
+}
