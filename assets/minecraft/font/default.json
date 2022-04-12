@@ -118,6 +118,27 @@
 			"ascent": 8,
 			"height": 8,
 			"chars": ["\uE121"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/world.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE122"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/end.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE123"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/nether.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE124"]
 		}
 	]
 }
