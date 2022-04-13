@@ -128,7 +128,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/custom/end.png",
+			"file": "minecraft:font/custom/end2.png",
 			"ascent": 8,
 			"height": 8,
 			"chars": ["\uE123"]
@@ -139,6 +139,27 @@
 			"ascent": 8,
 			"height": 8,
 			"chars": ["\uE124"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/a.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE125"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/v.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE126"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/hub.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE127"]
 		}
 	]
 }
