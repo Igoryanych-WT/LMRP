@@ -160,6 +160,55 @@
 			"ascent": 8,
 			"height": 8,
 			"chars": ["\uE127"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/profile.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE130"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/status.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE131"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/redemerald.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE132"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/ping4.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE133"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/ping3.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE134"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/ping2.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE135"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/ping1.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE136"]
 		}
 	]
 }
