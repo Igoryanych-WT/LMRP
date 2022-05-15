@@ -163,6 +163,20 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "minecraft:font/custom/of.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE128"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/rad.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE129"]
+		},
+		{
+			"type": "bitmap",
 			"file": "minecraft:font/custom/profile.png",
 			"ascent": 8,
 			"height": 8,
