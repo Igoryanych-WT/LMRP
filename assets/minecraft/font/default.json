@@ -223,6 +223,13 @@
 			"ascent": 8,
 			"height": 8,
 			"chars": ["\uE136"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/pr.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE137"]
 		}
 	]
 }
