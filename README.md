@@ -9,7 +9,7 @@
   </a>
 </div>
 <div id="badges2">
-<img alt="VK" src="https://img.shields.io/twitter/url?color=blue&label=%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5&logo=VK&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fvk.com%2Flifemineserver&link=vk.com/lifemineserver">
+<button onclick="window.open('https://vk.com/lifemineserver');"><img alt="VK" src="https://img.shields.io/twitter/url?color=blue&label=%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5&logo=VK&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fvk.com%2Flifemineserver&link=vk.com/lifemineserver">
 <img alt="Telegram" src="https://img.shields.io/twitter/url?color=blue&label=Telegram&logo=Telegram&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.t.me%2Flifemineserver&link=t.me/lifemineserver">
 <img src="https://img.shields.io/discord/431879310757068800?style=for-the-badge" alt="Discord"/>
 </div>
