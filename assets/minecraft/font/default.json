@@ -251,6 +251,13 @@
 			"ascent": 8,
 			"height": 8,
 			"chars": ["\uE13A"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/custom/clan.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": ["\uE13B"]
 		}
 	]
 }
